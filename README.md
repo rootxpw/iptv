@@ -1,10 +1,9 @@
-
 #EXTM3U
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/ch3hd.jpg",CH3
-http://27.254.130.64/live01/ch0.m3u8?p=st
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3
+http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
@@ -42,12 +41,12 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/hd-thairath/playlist.m3
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/nation.png",Nation
-http://27.254.130.64/live01/ch8.m3u8?p=st
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/pptv.png",PPTV
-http://27.254.130.64/live01/ch2.m3u8?p=st
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
@@ -57,7 +56,7 @@ http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-amarin.jpg",Amarin
 https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-amarin.jpg",Amarin
-http://27.254.130.64:80/feed/chamarin/playlist.m3u8
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-gmmone.jpg",ONE
 https://cdn161.cloud-streaming.com/ilike4kin_x6/one_720p/chunks.m3u8
@@ -77,7 +76,7 @@ https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
 https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/workpoint.png",Workpoint
-http://27.254.130.64/live01/ch7.m3u8?p=st
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
@@ -124,7 +123,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.09.29-G2 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.01-G1 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -171,13 +170,13 @@ http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier HD5
 http://tv10.chang55.com/epl-5/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport1.jpg",true Sport HD1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 http://dootvthai-hd.com/cmd/true/truesport-HD/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport2.jpg",true Sport HD2 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2 
 http://dootvthai-hd.com/cmd/true/truesport-HD2/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport3.jpg",true Sport HD3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065510.jpg",true Sport HD3
 http://dootvthai-hd.com/cmd/true/truesport-HD3/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://images.ufoiptv.com/channels/hd-tsport4.jpg",true Sport HD4-ตาย.รอดู-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065523.jpg",true Sport HD4-ตาย.รอดู-
 http://dootvthai-hd.com/cmd/true/truesport-HD4/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",TRUE SPORT 1
@@ -1055,51 +1054,12 @@ http://112.121.150.133:8022/stream
 
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-021158.jpg",E.[2020] ENOLA HOLMES
 https://streamhee.com/2020_new/Enola.Holmes.%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2.%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C.2020/Enola.Holmes.%E0%B9%80%E0%B8%AD%E0%B9%82%E0%B8%99%E0%B8%A5%E0%B8%B2.%E0%B9%82%E0%B8%AE%E0%B8%A5%E0%B9%8C%E0%B8%A1%E0%B8%AA%E0%B9%8C.2020.480P.mp4.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1587873856.jpg",The Willoughbys วิลโลบี้ สี่พี่น้องผจญภัย (2020) 
-https://cdn1.cdn9x.com/ovunltfa/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1587368987.jpg",Sergio เซอร์จิโอ (2020) 
-https://cdn1.cdn9x.com/hqrbsvu8/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
 https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585802689.jpg",Dragonheart Vengeance ดราก้อนฮาร์ท ศึกล้างแค้น (2020)
-https://cdn5.cdn9x.com/3lrtkkeq/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585718724.png",The Call of the Wild เสียงเพรียกจากพงไพร (2020) 
-https://cdn5.cdn9x.com/eg2cladv/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/The-Kill-List.jpg",The Kill List (2020) ล่า ล้าง บัญชี
 https://cdn.jebriko.ru/vod/disk3/movies/theklst.mp4
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
 https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585572626.jpg",The Murder of Nicole Brown Simpson (2020)
-https://cdn5.cdn9x.com/2eqqq069/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585543782.jpg",Superman: Red Son (2020)
-https://cdn5.cdn9x.com/pp5a5qvq/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585284262.jpg",The Gentlemen (2020) สุภาพบุรุษมาหากัญ
-https://cdn5.cdn9x.com/uj97be54/720p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585110759.jpg",Bloodshot (2020) จักรกลเลือดดุ
-https://cdn5.cdn9x.com/72q1p3dn/720p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1585022124.jpg",Onward คู่ซ่าล่ามนต์มหัศจรรย์ (2020)
-https://cdn5.cdn9x.com/j8pm9c97/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1584599613.jpg",Go Karts (2020)  กล้าฝันพลังโกคาร์ท
-https://cdn5.cdn9x.com/bbj88fqk/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1584596877.jpg",Bad Boys For Life (2020) แบดบอยส์ คู่หูตลอดกาล ขวางทางนรก 
-https://cdn5.cdn9x.com/6miv525c/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1583638241.png",Spenser Confidential (2020) สเปนเซอร์ ลุย ล่า ปราบทรชน
-https://cdn5.cdn9x.com/avn77um2/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1583638373.png",Birds of Prey ทีมนกผู้ล่า กับฮาร์ลีย์ ควินน์ ผู้เริดเชิด (2020)
-https://cdn5.cdn9x.com/q48s3335/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/vuj3wknvnoggc0gog8.jpg",The last thing he wanted (2020)
-http://191.96.77.236/video/movie_sound2019/The.last.thing.he.wanted.2020.1080p.web-dl.subnf-4K.mp4/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1579405266.jpg",A Fall from Grace (2020)
-https://cdn5.cdn9x.com/fshdu8vm/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1580954621.png",Taylor Swift Miss Americana (2020)
-https://cdn5.cdn9x.com/t72tgf6i/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1581137620.jpg",Detective Di Renjie (2020)
-https://cdn5.cdn9x.com/aeag7lm7/1080p.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://doonungdee.online/cover/1581137938.jpg",Secret Zoo (2020) 
-https://cdn5.cdn9x.com/kgegude/1080p.m3u8
-
-
-
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-063629.jpg",We Bare Bears The Movie (2020)
 https://cdn-ktu-moive-streaming.box.com/shared/static/rc7k3nxtmdq0z2dkhd0atn84hh83jc2o.mkv
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-063240.jpg",pets united 2020
@@ -1216,8 +1176,6 @@ http://191.96.77.236/video/movie_sound2019/Ford.v.ferrari.2019.1080p.webdl.subth
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/b9dmisbrxts0880k8c.jpg",The Call of the Wild
 http://191.96.77.236/video/2020/The.Call.of.the.Wild.2020.1080p.BDRip.TH.mp4/playlist.m3u8
 
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Alita: Battle Angel (2019)
-https://cdn4.cdn9x.com/cnj6hbf4/1080p.m3u8
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Avatar (2009)
 https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Independence Day-วันสิ้นโลก2012
@@ -2676,4 +2634,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.09.29-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.10.01-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
