@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="http://www.totiptv.com/Product/Channel/images/3-HD.png",CH3
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 
 
@@ -12,9 +12,9 @@ https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/ch7hd.jpg",CH7
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/ch7hd.jpg",CH7
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 
 
@@ -53,14 +53,14 @@ https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/gmm.png",GMM
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-amarin.jpg",Amarin
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-amarin.jpg",Amarin
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-gmmone.jpg",ONE
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
 https://cdn161.cloud-streaming.com/ilike4kin_x6/one_720p/chunks.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://images.ufoiptv.com/channels/hd-gmmone.jpg",ONE
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
 http://dootvthai-hd.com/cmd/api/true/ONE-HD/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
@@ -123,7 +123,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.01-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.01-G2 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -2634,4 +2634,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.10.01-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.10.01-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
