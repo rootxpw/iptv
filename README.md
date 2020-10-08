@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
@@ -12,12 +11,10 @@ https://cdn6.goprimetime.info/feed/ch5hd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/ch5.png",CH5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
-
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073150.jpg",CH7
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
-
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://teevee-hd.com/img/mcot.png",MCOT
 https://cdn6.goprimetime.info/feed/chmcothd/index.m3u8
@@ -124,7 +121,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.08-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.08-G2 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -278,8 +275,7 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img.favpng.com/16/25/6/santiago-bernab-u-stadium-real-madrid-c-f-la-liga-tour-bernab-u-real-madrid-tv-png-favpng-CD9NjcM2CJvw8pPkZjgvtQpwp_t.jpg",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
-https://moviektu.com/222/playlist.m3u8=peWQgAb52vk
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-200px.png",ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
@@ -323,6 +319,7 @@ Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/im
 Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-061924.jpg",Astro Supersport 2
 Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-061934.jpg",Astro Supersport 3
 Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-061944.jpg",Astro Supersport 4
+Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://teevee-hd.com/img/golf.png",Golf channel
 
 
 
@@ -2463,6 +2460,11 @@ https://youtu.be/xaqgC4yAuCM
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลง Acoustic Cover เพลงฮิตติดหู
 https://youtu.be/1EFrgUa4C0M
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ ฟังชิวๆ
@@ -2511,6 +2513,16 @@ https://youtu.be/GOKe3Q77TN0
 https://youtu.be/7rcbGdlLZ54
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",พักผ่อนกับน้ำสีเหลืองทอง
 https://youtu.be/cE8t9bgsSAA
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",100 ล้านวิว-เพลงลูกทุ่งใหม่ล่าสุด รวมเพลงเพราะ ฟังต่อเนื่อง
+https://youtu.be/CIH3x74-ed4
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",100 ล้านวิว-เพลงสากล,ไม่รู้จะเพราะไปไหนแล้ว เอามามัดรวมกันทีเดียว ร้านกาแฟ เวลาทำงาน
+https://youtu.be/B7KHIgCMCVw
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงอินดี้อีสาน 100 ล้านวิว ใหม่ล่าสุด 2020
+https://youtu.be/NSHayBoFTzk
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆฟังต่อเนื่อง By ส้มโอ stage fighter
+https://youtu.be/bknBMOoRtCU
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ ฟังต่อเนื่อง By ส้มโอ Stage Fighter🥰🥰
+https://youtu.be/GrfAKg_1Kbk
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ By ไอซ์ x โอ๊ต
 https://youtu.be/ZqpgnDLHLeE
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",Cover Acoustic - 20 อันดับเพลงฮิต
@@ -2519,9 +2531,10 @@ https://youtu.be/2Ok2GECcTL4
 https://youtu.be/zzO-PJjI-PA
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงสตริงฮิต ดา เอ็นโดรฟิน l เธอมีฉัน ฉันมีใคร,เพื่อนสนิท,ได้ยินไหม
 https://youtu.be/oCbwBLVBW60
-
-
-
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลง เขียนไขและวานิช เพลงช้าๆเพราะๆฟังกันยาวๆ
+https://youtu.be/VxEikyATspQ
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",【รวมเพลง】ฮิต X ฮิต Da Endorphine - KLEAR
+https://youtu.be/GgtBFkjrXrc
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงสากล ฮิตติดชาร์ต
 https://youtu.be/e6Ye5haFC-E
 #EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวงมเพลงสากล เพราะที่สุด เพลงใหม่
@@ -2661,4 +2674,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.10.08-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.10.08-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
