@@ -124,7 +124,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.06-G2 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.08-G1 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -331,8 +331,7 @@ Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/im
 
 
 
-
-#EXTINF:-1 group-title="Variety" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png", TH:SABAIDEE TV
+#EXTINF:-1 group-title="Variety" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png",Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-10-075139.jpg",true iNSIDE HD
 http://dootvthai-hd.com/cmd/api/true/true-inside-hd/playlist.m3u8
@@ -340,8 +339,18 @@ http://dootvthai-hd.com/cmd/api/true/true-inside-hd/playlist.m3u8
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062235.jpg",CAT HD
 https://cdn6.goprimetime.info/feed/CAT/index.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-073312.jpg",TRUE PLOOKPANYA HD
+http://dootvthai-hd.com/cmd/api/true/TRUEPLOOKPANYA/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-073347.jpg",REALITY CHANNEL HD
+http://dootvthai-hd.com/cmd/api/true/REALITYCHANNEL-HD/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-073420.jpg",TRUE ID STATION HD
+http://dootvthai-hd.com/cmd/api/true/IDSTATION/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-072933.jpg",ฟ้าวันใหม่
+https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://i.imgur.com/Y7u19Pl.png",bTV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
@@ -350,12 +359,8 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC6/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://i.imgur.com/u8EMYaz.png",Sabaidee TV
-http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="http://thaich2.com/images/logoch2-nm.png"",Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-26-091649.jpg",ID Station
-http://dootvthai-hd.com/cmd/api/true/idstation/playlist.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://i.imgur.com/dauuWLp.png",Smart SME Channel
 https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHTFdM-gTKLcwz6ERj6zlAGrHNr3cwEBhxwRq-xbMFt-lwgUz8&usqp=CAU",Yateem TV (New!)
@@ -395,6 +400,7 @@ http://51.52.156.22:8888/http/001
 #EXTINF:-1 group-title="Variety" tvg-logo="https://luxpro.mc/wp-content/uploads/2019/03/wfc.jpg",WFC TV International
 http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 
+Rem #EXTINF:-1 group-title="Variety" tvg-logo="",
 
 
 
@@ -410,10 +416,44 @@ http://dootvthai-hd.com/cmd/api/true/LIFE-TIME/playlist.m3u8
 http://dootvthai-hd.com/cmd/true/true-x-zyte-hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://cms.dmpcdn.com/livetv/2018/07/24/afc3d514-fba5-4da4-8220-6123412da728.jpg",True X-zyte
 http://dootvthai-hd.com/cmd/true/TRUE-X-ZYTE-HD/playlist.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-020954.jpg",TRUE INSIDE HD
 http://dootvthai-hd.com/cmd/api/true/TRUE-INSIDE-HD/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/NICKELODEON-CH2_Thumb_6125fec7151c60fdaf4579f567e748a0.png",NICKELODEON
+https://moviektu.com/222/playlist.m3u8=94K8BnA02BQ
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png",TRUE SPARK PLAY
+https://moviektu.com/222/playlist.m3u8=P83vkq1M1Lp
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-JUMP-CH1_Thumb.png",TRUE SPARK JUMP
+https://moviektu.com/222/playlist.m3u8=qaXe7YlRZp1
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-065915.jpg",TRUE MUSIC HD
+http://dootvthai-hd.com/cmd/true/true-music-hd/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-070354.jpg",TRUE KMTV HDTV
+http://dootvthai-hd.com/cmd/true/kmtv-hd/playlist.m3u8
 
+Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-072426.jpg",KBS WORLD HD
+http://dootvthai-hd.com/cmd/api/true/KBS-WORLD-HD/playlist.m3u8
+Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-072531.jpg",TVN ASIA
+http://dootvthai-hd.com/cmd/api/true/TVN/playlist.m3u8
+
+Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-072656.jpg",SUPER BUNTERNG(Thai)
+http://dootvthai-hd.com/cmd/true/SUPER-ENTERTAIN/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-070731.jpg",VERY TV
+http://dootvthai-hd.com/cmd/true/verytv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-070748.jpg",I-CONCERT HD
+http://dootvthai-hd.com/cmd/api/true/Stringray-iConcerts-HD/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071219.jpg",Outdoor Channel
+http://dootvthai-hd.com/cmd/api/true/OUTDOOR-CHANNEL/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071311.jpg",HD FASHION & LIFESTYLE
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071531.jpg",WFC
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071627.jpg",FASHION TV
+http://dootvthai-hd.com/cmd/true/fashion-tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125805.jpg",Asian Food Network
+http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-020237.jpg",FOOD NETWORK
+http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohiGd76BirZTYYV7cXvh3vGGSYOHeYDAZqy0O2izZV7p4S4vUe9NARHmO5g&s=10",Retro Music TV
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png",ATV(CH)
@@ -440,11 +480,6 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-03-125934.jpg",Luxe TV HD 
 http://58.26.3.56/PLTV/88888888/224/3221226265/02.m3u8
-
-
-
-#EXTINF:-1 group-title="Entertainment",ITV 3
-http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22789/chivetv/logo_20200227_235931.png",CHIVE TV 
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-05-041342.jpg",HGTV
@@ -461,6 +496,10 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",FASHION TV MIDNITE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment",ITV 3
+http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",Fashion Show
@@ -469,23 +508,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",F.tv
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/NICKELODEON-CH2_Thumb_6125fec7151c60fdaf4579f567e748a0.png",NICKELODEON
-https://moviektu.com/222/playlist.m3u8=94K8BnA02BQ
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-PLAY-CH1_Thumb.png",TRUE SPARK PLAY
-https://moviektu.com/222/playlist.m3u8=P83vkq1M1Lp
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-JUMP-CH1_Thumb.png",TRUE SPARK JUMP
-https://moviektu.com/222/playlist.m3u8=qaXe7YlRZp1
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-MUSIC-HD-CH1_Thumb_354a14039b90dd32ad1ea57e7a089962.png",TRUE MUSIC HD
-https://moviektu.com/222/playlist.m3u8=Mbx79DOD44J
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125805.jpg",Asian Food Network
-http://dootvthai-hd.com/cmd/true/asian-food-channel/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-020237.jpg",FOOD NETWORK
-http://dootvthai-hd.com/cmd/api/true/FOOD-NETWORK-HD/playlist.m3u8
 
 
+Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="",
 Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-03-125520.jpg",fyi
 Rem #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-03-125320.jpg",true TV
 
@@ -602,9 +627,6 @@ http://203.154.243.31:8081/live/ping/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-27-083346.jpg",SONY MOVIES
 http://51.52.156.22:8888/http/009
 
-
-
-
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTok84GbwFSi9l3qYc4KaHZNoEMHtQaMjh46el3e77M6YsOMssw&usqp=CAU",&FlixHd
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSj_FpF3zcpKqn0_UzYHfX_aHbfIk1IAi81dTag5PTyfG6URps9&usqp=CAU",Movie (Untitled)
@@ -654,6 +676,14 @@ https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://image.roku.com/developer_channels/prod/2ece48481d5191baae1d3dc550fe6c99ed59f7f87d90c096ab4ab8a9021efb89.png",FilmRise Sci-Fi
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071951.jpg",PARAMOUNT NETWORK
+http://dootvthai-hd.com/cmd/api/true/PARAMOUNT-HD/playlist.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-072031.jpg",WARNER TV
+http://dootvthai-hd.com/cmd/api/true/WARNER-HD/playlist.m3u8
+
+
+Rem #EXTINF:-1 group-title="Movie"tvg-logo="",
 Rem #EXTINF:-1 group-title="Movie" tvg-logo="https://teevee-hd.com/img/truefilmasia.png",true Film Asia
 Rem #EXTINF:-1 group-title="Movie" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-THAI-FILM-CH1_Thumb_a006b00fced231ed9903b0f8daee4031.png",TRUE THAI FILM(PC)
 Rem #EXTINF:-1 group-title="Movie" tvg-logo="https://teevee-hd.com/img/truemoviehits.png",true Movie Hits
@@ -2631,4 +2661,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.10.06-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.10.08-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
