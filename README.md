@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 
@@ -123,7 +124,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.11-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.10.11-G2 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -846,11 +847,14 @@ http://dootvthai-hd.com/cmd/true/true-x-zyte-hd/playlist.m3u8
 http://dootvthai-hd.com/cmd/api/true/HISTORY-CHANNEL-HD/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125322.jpg",History TH
+https://stream1.xn--l3cm7a5azd.live/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY TH
 http://dootvthai-hd.com/cmd/api/true/H2/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY TH
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
-
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY TH
+https://stream1.xn--l3cm7a5azd.live/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmRzykehevSI1iW6Bp_SUWZSPYUAAsUfg7H2RdI1365FhLNsCp&usqp=CAU",Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
@@ -861,13 +865,14 @@ https://moviektu.com/222/playlist.m3u8=ma6D5ppgRb7
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/discovery.png",Discovery
-http://ip2121.com:8081/live2/DISCOVERY/chunks.m3u8
+https://stream1.xn--l3cm7a5azd.live/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg",Discovery Asia
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/05/discovery-asia.jpg",Discovery Asia
-http://keykingiptv.ddns.net/keyking/discoveryasia_keyking/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-29-113812.jpg",LOVE 4K Nature -รอดู-
+https://stream1.xn--l3cm7a5azd.live/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-29-113812.jpg",LOVE 4K Nature
 http://103.253.72.107:9997/A-Movie/tracks-v1a1/mono.m3u8
+
 
 Rem #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png",BBC Earth
 Rem #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/bbclifestyle.png",BBC LIFESTYLE
@@ -2682,4 +2687,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.10.11-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.10.11-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
