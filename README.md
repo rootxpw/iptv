@@ -831,8 +831,8 @@ http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary"tvg-logo="https://teevee-hd.com/img/animalplanet.png",ANIMAL PLANET
 https://stream1.xn--l3cm7a5azd.live/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary"tvg-logo="http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8",love nature4k
-
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-034423.jpg",love nature4k
+http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8
 
 
 
