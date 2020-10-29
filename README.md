@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -779,11 +780,9 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 
 
 
-
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-045748.jpg",National Geographic
-https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-045748.jpg",National Geographic -รอดู-
+https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-045748.jpg",National Geographic
 http://103.253.72.107:9997/natgeo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg",Discovery Asia
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
