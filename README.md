@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
@@ -124,7 +125,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.11.10-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.11.10-G2 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -362,7 +363,10 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-11-030632.jpg",Sky Racing 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025443.jpg",GFS Hi Fight
+http://203.154.243.89:1422
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025818.jpg",HI HD SPORT
+http://203.154.243.89:11203
 
 Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-061913.jpg",Astro Supersport 1
 Rem #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-25-061924.jpg",Astro Supersport 2
@@ -483,7 +487,8 @@ https://moviektu.com/222/playlist.m3u8=94K8BnA02BQ
 https://moviektu.com/222/playlist.m3u8=P83vkq1M1Lp
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.chang55.com/movie/upload/movie_img/TRUE-SPARK-JUMP-CH1_Thumb.png",TRUE SPARK JUMP
 https://moviektu.com/222/playlist.m3u8=qaXe7YlRZp1
-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025036.jpg",MUSIC FOR YOU
+http://203.154.243.89:1213
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071311.jpg",HD FASHION & LIFESTYLE
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -578,6 +583,8 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 6(CHANNEL8)
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025707.jpg",Movie Series
+http://203.154.243.89:1423
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 6
 http://203.154.243.31:8081/live/ping/index.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://data.apksum.com/71/top.movhd.com.myapplication/mov9.3/icon.png",Movies 7
@@ -693,11 +700,13 @@ https://cdn6.goprimetime.info/feed/LC41/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner B Sub Thai
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner B Sub Thai
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_tv_us.png",Warner
-http://203.154.177.124:8899/live/ch12/playlist.m3u8
 
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
+http://203.154.243.89:1205
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-22-061428.jpg",JKN DRAMAX(หนังแขก)TH
 http://96.30.124.99:1935/edgelive3/JKN.stream_360p/playlist.m3u8
@@ -867,9 +876,10 @@ https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-080059.jpg",BBC LIFESTYLE
 https://dl.dropboxusercontent.com/s/o79pge27vtkfgw3/bbclifestyle.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",World Animal
 http://203.154.243.32:8088/live/wanimal/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-011449.jpg",World Animal
+http://203.154.243.89:1201
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-011501.jpg",World Science
 http://203.154.243.32:8088/live/wsci/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doohdbox.com/assets/201707081756341945061266.jpg",PSI สาระดี
@@ -1130,7 +1140,7 @@ https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w1216683333.m3u8
 http://link2.onair.network:8006/stream/1/
 #EXTINF:-1 group-title="Radio" tvg-logo="https://uppic.cc/d/yw72",FM One
 https://fmone.plathong.net/7010/;stream.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062604.jpg",Greenwave
+#EXTINF:-1 group-title="Radio" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062604.jpg",Greenwave-รอดูอาการ-
 http://203.146.102.153:1935/live/rtmp:greenlive.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://listen.becteroradio.com/2014/images/logo-radradio.png",RAD Radio
 https://wzorigin.becteroradio.com/Rad/Rad-Listen-Med/chunklist.m3u8
@@ -2756,4 +2766,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.11.10-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.11.10-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
