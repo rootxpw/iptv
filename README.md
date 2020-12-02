@@ -135,7 +135,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.11.30-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.02-G1 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -543,8 +543,7 @@ https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.doohdbox.com/assets/201801301516261971647980.jpg",Mono Plus
 https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS1080p.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020633.jpg",GEM(JP.Movie)
-http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -875,107 +874,149 @@ Rem #EXTINF:-1 group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2
 
 
 
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/BHUh7hq.jpg",CCTV 1,CN | CCTV 1
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg",CCTV 4,CN | CCTV 4
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png",CCTV-10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8?checkedby
+
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png",CCTV-11
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="",CCTV-11戏曲
+http://121.31.30.90:8085/ysten-business/live/cctv-11/yst.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png",CCTV-12
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="",CCTV-12社会与法
+http://121.31.30.90:8085/ysten-business/live/cctv-12/yst.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-13
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/ksFTF0t.png",CCTV-13 (Opt-2)
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="",CCTV-13新闻
+http://121.31.30.90:8085/ysten-business/live/cctv-13/yst.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV-14
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="",CCTV-14少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8?checkedby
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png",CCTV-15
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8?checkedby
 
 
 
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",CGNTV JP-KR
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV1
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV2
+GOOD TV2,http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV6
+GOOD TV6,http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV7
+GOOD TV7,http://live.streamingfast.net/osmflivech7.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV8
+GOOD TV8,http://live.streamingfast.net/osmflivech8.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV10
+GOOD TV10,http://live.streamingfast.net/osmflivech10.m3u8
+
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020633.jpg",GEM(JP.Movie)
+http://203.150.107.30:8081/tested2iptv/core207/playlist.m3u8
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",JP-CGNTV JP-KR
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",NTV News24
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
 https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",NTV News24
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
 http://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="JP;US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_JP-KR_Pro_Wrestling_Logo_2.svg/480px-New_JP-KR_Pro_Wrestling_Logo_2.svg.png",NJPW World(การ์ตูน)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/tYZz5CC.png",WeatherNews
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/tYZz5CC.png",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/9VXxnlo.png",WeatherNews-ウェザーニュース
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/9VXxnlo.png",WeatherNews-ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-065559.jpg",wakuwaku JP-KR
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-065559.jpg",Wakuwaku JP-KR
 https://live.tubtoeball.net/tubtoeball_app/wakuwakuJP-KR/playlist.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World JP-KR,NHK World JP-KR live
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World JP-KR live
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK G HD
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK G HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World JP-KR HD
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World JP-KR HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK General
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK General
 http://203.162.235.41:16903
-#EXTINF:-1 group-title="JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World Premium
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World Premium
 http://203.162.235.41:16901
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/XoDOeDW.png",Tokyo - Narita Airport
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/XoDOeDW.png",Tokyo - Narita Airport
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://img.JP-KRet.co.jp/shopping/img/senqua/header/logo.gif",ジャパネットチャンネルDX
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://img.JP-KRet.co.jp/shopping/img/senqua/header/logo.gif",JP-ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKgMvbvKVXzH9yoQL9keS2HSJZ8CSATvhcJfCZfdOU1KIuO-2i&usqp=CAU",Shop Channel
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKgMvbvKVXzH9yoQL9keS2HSJZ8CSATvhcJfCZfdOU1KIuO-2i&usqp=CAU",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10",BS Asahi
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10",BS Asahi
 http://203.162.235.41:16914
- #EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU",BS Fuji
+ #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU",BS Fuji
 http://203.162.235.41:16911
- #EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzD3ZzH7BPugY1TxcDPIO42bYIdM1PuRCuyceeINSHhqBtAUJ&usqp=CAU",BS JP-KR
+ #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzzD3ZzH7BPugY1TxcDPIO42bYIdM1PuRCuyceeINSHhqBtAUJ&usqp=CAU",BS JP-KR
 http://203.162.235.41:16915
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",BS NTV
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",BS NTV
 http://203.162.235.41:16912
- #EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU",BS TBS
+ #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU",BS TBS
 http://203.162.235.41:16913
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4lfQSzkRHXg42Pwmv500FM4vBfoGwDrPks8kwRTglnNCt8bDCTP3q2sn&s=10",Golf Network
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4lfQSzkRHXg42Pwmv500FM4vBfoGwDrPks8kwRTglnNCt8bDCTP3q2sn&s=10",Golf Network
 http://203.162.235.41:16924
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6y2cYiA8X-mfObfOrIWMl6TZfcuYD9vJxOuGv-Au4qUwHfgaV&usqp=CAU",GSTV
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6y2cYiA8X-mfObfOrIWMl6TZfcuYD9vJxOuGv-Au4qUwHfgaV&usqp=CAU",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS
 http://203.162.235.41:16910
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU",NJPW World
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU",NJPW World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU",Nippon TV
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU",Nippon TV
 http://203.162.235.41:16905
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/tYZz5CC.png",WeatherNews
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/tYZz5CC.png",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://i.imgur.com/9VXxnlo.png",WeatherNews-ウェザーニュース
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/9VXxnlo.png",WeatherNews-ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="JP-KR" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg",JP-KRet Channel DX
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg",JP-KRet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 
 
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093107.jpg",KBS1
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093107.jpg",KBS1
 https://iptvhome-ra2eye.cdn.byteark.com/KBS1/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093118.jpg",KBS2
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093118.jpg",KBS2
 https://iptvhome-ra2eye.cdn.byteark.com/KBS2/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093247.jpg",MBC
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093247.jpg",MBC
 https://iptvhome-ra2eye.cdn.byteark.com/MBC/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093259.jpg",SBS
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093259.jpg",SBS
 https://iptvhome-ra2eye.cdn.byteark.com/SBS/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093401.jpg",YTN
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093401.jpg",YTN
 https://iptvhome-ra2eye.cdn.byteark.com/YTN/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093410.jpg",SHOSUN TV(74)
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093410.jpg",SHOSUN TV(74)
 https://iptvhome-ra2eye.cdn.byteark.com/74/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093548.jpg",TVN
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093548.jpg",TVN
 https://iptvhome-ra2eye.cdn.byteark.com/TVN/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093557.jpg",OCN
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093557.jpg",OCN
 https://iptvhome-ra2eye.cdn.byteark.com/OCN/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093651.jpg",JTBC
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093651.jpg",JTBC
 https://iptvhome-ra2eye.cdn.byteark.com/JTBC/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093704.jpg",MBN
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093704.jpg",MBN
 https://iptvhome-ra2eye.cdn.byteark.com/MBN/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093942.jpg",SPOTV
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093942.jpg",SPOTV
 https://iptvhome-ra2eye.cdn.byteark.com/SPOTV/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093952.jpg",SPOTV2
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-093952.jpg",SPOTV2
 https://iptvhome-ra2eye.cdn.byteark.com/SPOTV2/index.m3u8
-#EXTINF:-1 group-title="JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg",OBS
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-23-094043.jpg",OBS
 https://iptvhome-ra2eye.cdn.byteark.com/OBS/index.m3u8
 
 
@@ -2087,4 +2128,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.11.30-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.12.02-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
