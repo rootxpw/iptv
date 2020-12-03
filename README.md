@@ -135,7 +135,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.02-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.03-G1 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -409,6 +409,8 @@ https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014708.jpg",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-063000.jpg",Quran TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_97200=2.m3u8
 
 
 Rem #EXTINF:-1 group-title="Variety" tvg-logo="",
@@ -656,8 +658,8 @@ Rem #EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/
 
 
 
-
-
+#EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-063130.jpg",CNN
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-021211.jpg",Australia Channel
@@ -1092,10 +1094,10 @@ http://112.121.150.133:9386/live
 http://27.254.142.208:8300/stream/1/
 
 
-
-
-
-
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064652.jpg",Tenet เทเน็ท (2020)
+https://lb1.one3up.com/hls/e5cc8d83734c0266ebee16b949bbe3ea/e5cc8d83734c0266ebee16b949bbe3ea.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064225.jpg",Attraction 2 Invasion (2020) มหาวิบัติเอเลี่ยนถล่มโลก 2
+https://lb1.one3up.com/hls/42d5e16572b86619ec9789889e2f558d/42d5e16572b86619ec9789889e2f558d.m3u8
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
 https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/The-Kill-List.jpg",The Kill List (2020) ล่า ล้าง บัญชี
@@ -2128,4 +2130,4 @@ https://youtu.be/cEeUFE6tRmQ
 
 
 
-###[2020.12.02-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2020.12.03-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
