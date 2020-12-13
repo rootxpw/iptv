@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
@@ -135,7 +134,7 @@ https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-17-032149.jpg",R Channel
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.03-G1 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.09-G1 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
 
@@ -326,6 +325,10 @@ http://203.154.243.89:11203
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/57/6c/36/576c36c2b45e2bc52b2360fcd2fd2eb4.png",Ten sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
+
+
+#=================================================================================================================================
+
 
 
 REM #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",beIN SPORTS1 HD
@@ -2128,6 +2131,277 @@ https://youtu.be/squnzmd-QX0
 https://youtu.be/cEeUFE6tRmQ
 
 
+#=============================================================================================================================================
 
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+*********
 
-###[2020.12.03-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVYeRHLnHLPqoraTdxnmF3netklHJ83dpMdA&usqp=CAU",SKY​ SPORT​S FOOTBALL
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp7aNvsInCqqZtk0cSP31xkSFitzNRkBrUg&usqp=CAU",PREMIER​ SPORTS
+http://160.119.77.116:8081/iptv/uk-premiersports.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EtOxqTbdW2FJAtRXjnAVWsWC-yZ3PK98VQ&usqp=CAU",SPORT​S TV​1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXGxAHuVlDpcyLm8zHgYIo2V_mBQf6R2MOJw&usqp=CAU",SPORT​S TV​2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtndcW4pG-vi-Vdo1XmIkXF3ECLo2s17GNWQ&usqp=CAU",SPORT​S TV​3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7ehCipQZF4eG190LxMqFjpbLet_62ZqIdg&usqp=CAU",SPORT​S TV​4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREU0Zck4i8MAUg1wG_az7WTggR4LGlfayLXA&usqp=CAU",SPORT​S TV​5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+*********
+
+#=============================================================================================================================================
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music
+https://30a-tv.com/music.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/c59VWgF.jpg",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png",7S Music
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/9FtlMlF.png",Akaram Mix
+http://akaram.zecast.net/akaram-live/akarammix1/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/b4u-kadak-in.png",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/mW6c2QR.png",Baraza TV
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/mW6c2QR.png",Baraza TV Classic Hits
+https://eco.streams.ovh:443/BarazaClassic/BarazaClassic/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/mW6c2QR.png",Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/iv85GCc.png",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://www.giniko.com/logos/190x110/966.png",CA Music
+https://bozztv.com/36bay2/gin/giniko_camusic_1200kb_36bay2/tracks-v1a1/mono.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmc-cali-tv.png",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png",Caltex TV
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png",CCTV中国中央电视台-15 音乐
+http://117.148.187.37/PLTV/88888888/224/3221226112/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/CINEVOICETV56.jpg",Cine Voice
+https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/LJ4Hpdc.png",City Music TV
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://image.shutterstock.com/z/stock-vector-letter-tv-logo-design-template-with-square-641945077.jpg",Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/AX5NsOv.jpg",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=320&height=320",DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="",DBM
+https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://zonawrestling.net/wp-content/uploads/2015/10/Deejay_TV_logo-1280x720.jpg",Deejay TV
+https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/DESICHANNEL09.jpg",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing
+https://www.djing.com/tv/live.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing Classic
+https://www.djing.com/tv/classics.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",Music",DJing Dance Floor
+https://djing.com/tv/dancefloor.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/XQ2vMHd.png",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/Q1UOlkA.png",EUROAL
+http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/Ju3mLgq.png",Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="",Guitar Relax
+https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/tracks-v1a1/mono.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",IBC Music
+https://ibcmusic-live.ibctamil.com/transcode/music.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/BT6jnfv.jpg",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=320&height=320",La Mega Mundial
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/96FfLIj.jpg",Lèeekô TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="",m2o TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MASTIII.png",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png",Med Muzîk
+http://137.74.205.201/live3/mm-3mbps.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/fw2fTCA.jpg",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/3alPZ8X.jpg",MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/K7jP9r1.jpg",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/cgJNpv9.png",MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/lBbbPI4.jpg",Music 24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/dKpLbh6.png",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/uisopuM.png",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/uisopuM.png",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://i.imgur.com/pK2p5ey.png",NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/yjuaHY1.jpg",Operator Radio
+http://cdn-hlm-1.streamnerd.nl/live/operator/playlist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/wCrNtxp.png",OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://i.imgur.com/100uuWA.png",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/s0CZjmi.png",Q-Music
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/ubEUBmB.png",Radio 21 TV
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg",Radio Contact Vision
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+*********
+
+#EXTINF:-1 group-title="World Music" tvg-logo="",Radio Italia Vision
+https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+*********
+
+### @Baphomet
+###[2020.12.09-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
