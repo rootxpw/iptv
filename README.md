@@ -1,6 +1,6 @@
 #EXTM3U
 
-#=======================================================      Digital TV   ===================================================================================
+#====================      Digital TV   =====================#
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
@@ -182,12 +182,9 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.16-G1 Android-แบ่งปัน
-https://youtu.be/YRwyE1GQ_jI
 
 
-
-#======================================================= Sports ======================================================================
+#==================== Sports   =====================#
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
@@ -232,7 +229,7 @@ http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
 
 
-#=====================================================================================================================================
+#==================================================================================================
 
 
 
@@ -274,7 +271,7 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 
 
 
-#=====================================================================================================================================
+#==================================================================================================
 
 
 
@@ -292,7 +289,7 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 
 
-#=====================================================================================================================================
+#==================================================================================================
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
@@ -377,7 +374,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w2093393586.m3u8
 
 
-#=================================================================================================================================
+#==============================================================================================
 
 
 
@@ -1326,7 +1323,7 @@ http://radio1.comgig.com:4096/;stream.m4a
 
 
 
-#=====================================================================================================================================
+#==================================================================================================
 
 
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064652.jpg",Tenet เทเน็ท (2020)
@@ -2363,7 +2360,7 @@ https://youtu.be/squnzmd-QX0
 https://youtu.be/cEeUFE6tRmQ
 
 
-#=============================================================================================================================================
+#==========================================================================================================
 
 #EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
@@ -2490,7 +2487,7 @@ http://alghanem1.dyndns.tv:8000/majd/1234/512
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_10SD" tvg-logo="https://www.up-00.com/i/00195/dvhjfokgebt3.png" group-title="قنوات الرياضة",BEINSPORT_10SD
 http://alghanem1.dyndns.tv:8000/majd/1234/513
 
-#=============================================================================================================================================
+#==========================================================================================================
 
 #EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
@@ -2729,5 +2726,43 @@ https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 *********
 
 
+#=========================================================================
 
-###[2020.12.16-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP1
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP01.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP2
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP02.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP3
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP03.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP4
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP04.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP5
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP05.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP6
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP06.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP7
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP07.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP8
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP08.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP9
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP09.mp4/index.m3u8
+
+#EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP10(จบ)
+https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP10.mp4/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2020.12.19-G1 Android-แบ่งปัน
+https://youtu.be/YRwyE1GQ_jI
+
+###[2020.12.19-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
