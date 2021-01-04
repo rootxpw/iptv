@@ -539,8 +539,11 @@ https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
 https://dootvgun.com/hbotv/hbofam/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -2303,7 +2306,7 @@ https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP1
 
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2021.01.04-G2 Android-แบ่งปัน
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2021.01.04-G3 Android-แบ่งปัน
 https://youtu.be/YRwyE1GQ_jI
 
-###[2021.01.04-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2021.01.04-IPTV.G3.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
